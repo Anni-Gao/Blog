@@ -4,7 +4,7 @@
 
 **Python scripts & visualizations for my blog posts**
 
-🔗 **[anni-gao.github.io](https://anni-gao.github.io/)**
+🌐 **[Visit My Blog](https://anni-gao.github.io/)**
 
 </div>
 
