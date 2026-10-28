@@ -41,5 +41,5 @@ blog-codes/
 └── README.md
 ```
 
-💡 Note: Each numbered folder directly maps to the corresponding post on the blog. For example, see the post **[Robotics Blog Series · Robot Fundamentals · Post #1](https://anni-gao.github.io/2026/10/28/Robotics%20Foundamental%2001//)**.
+💡 Note: Each numbered folder directly maps to the corresponding post on the blog. For example, see the post **[Robotics Blog Series · Robot Fundamentals · Post #1](https://anni-gao.github.io/posts/robotics_fundamental_01_linear_algebra/)**.
 
