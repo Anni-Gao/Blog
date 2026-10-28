@@ -33,10 +33,13 @@ The project mirrors the structure of the blog posts for easy navigation:
 blog-codes/
 ├── robotics/
 │   └── fundamental/
-│       └── 01/                 # Corresponds to "Robotics Fundamental 01"
+│       └── 01/                 # Corresponds to "Robotics Blog Series · Robot Fundamentals · Post #1"
 │           ├── images/         # Generated figures for this post
-│           ├── content_blog.py # Content generation
+│           ├── content_blog.py # Code snippets for this post
 │           └── figures.py      # Visualizations (matplotlib)
 ├── ...
 └── README.md
+```
+
+💡 Note: Each numbered folder directly maps to the corresponding post on the blog. For example, see the post **[Robotics Blog Series · Robot Fundamentals · Post #1](https://anni-gao.github.io/2026/10/28/Robotics%20Foundamental%2001//)**.
 
