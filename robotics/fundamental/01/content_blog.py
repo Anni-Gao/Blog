@@ -56,7 +56,7 @@ R = np.array([
 v = np.array([1.0, 0.0])
 v_rotated = R @ v
 
-print(v_rotated)
+print(np.round(v_rotated, decimals=10))
 
 #%% Part 7.2
 import numpy as np
